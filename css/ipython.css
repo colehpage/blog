@@ -1,0 +1,56 @@
+pre {
+    text-align: left;
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #333;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+pre code {
+    padding: 0;
+    font-size: inherit;
+    color: inherit;
+    white-space: pre-wrap;
+    background-color: transparent;
+    border-radius: 0;
+}
+
+pre {
+    background-color: #fbfbfb;
+    border: 0px solid #DEDEDE;
+    border-radius: 0px;
+    font-size: 13px;
+}
+
+.pre-scrollable {
+    max-height: 340px;
+    overflow-y: scroll;
+}
+
+.input_prompt {
+    display: none;
+}
+
+.input_area pre {
+    border: 1px solid rgb(111, 111, 111);
+}
+
+.text_cell_render {
+    display: none;
+}
+
+.article_analysis {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+section.comments {
+    display: none !important;
+}

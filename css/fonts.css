@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Ailerons-Regular';
+    src: url('../font/Ailerons-Regular.eot');
+    src: url('../font/Ailerons-Regular.woff2') format('woff2'), url('../font/Ailerons-Regular.woff') format('woff'), url('../font/Ailerons-Regular.ttf') format('truetype'), url('../font/Ailerons-Regular.svg#Ailerons-Regular') format('svg'), url('../font/Ailerons-Regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Science-Project';
+    src: url('../font/Science-Project.eot');
+    src: url('../font/Science-Project.woff2') format('woff2'), url('../font/Science-Project.woff') format('woff'), url('../font/Science-Project.ttf') format('truetype'), url('../font/Science-Project.svg#Science-Project') format('svg'), url('../font/Science-Project.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kano-regular';
+    src: url('../font/Kano-regular.eot');
+    src: url('../font/Kano-regular.woff2') format('woff2'), url('../font/Kano-regular.woff') format('woff'), url('../font/Kano-regular.ttf') format('truetype'), url('../font/Kano-regular.svg#Kano-regular') format('svg'), url('../font/Kano-regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lombok';
+    src: url('../font/Lombok.eot');
+    src: url('../font/Lombok.woff2') format('woff2'), url('../font/Lombok.woff') format('woff'), url('../font/Lombok.ttf') format('truetype'), url('../font/Lombok.svg#Lombok') format('svg'), url('../font/Lombok.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KingBasilLite-Regular';
+    src: url('../font/KingBasilLite-Regular.eot');
+    src: url('../font/KingBasilLite-Regular.woff2') format('woff2'), url('../font/KingBasilLite-Regular.woff') format('woff'), url('../font/KingBasilLite-Regular.ttf') format('truetype'), url('../font/KingBasilLite-Regular.svg#KingBasilLite-Regular') format('svg'), url('../font/KingBasilLite-Regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik-Black';
+    src: url('../font/Rubik/Rubik-Black.eot');
+    src: url('../font/Rubik/Rubik-Black.woff2') format('woff2'), url('../font/Rubik/Rubik-Black.woff') format('woff'), url('../font/Rubik/Rubik-Black.ttf') format('truetype'), url('../font/Rubik/Rubik-Black.svg#Rubik-Black') format('svg'), url('../font/Rubik/Rubik-Black.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik-Regular';
+    src: url('../font/Rubik/Rubik-Regular.eot');
+    src: url('../font/Rubik/Rubik-Regular.woff2') format('woff2'), url('../font/Rubik/Rubik-Regular.woff') format('woff'), url('../font/Rubik/Rubik-Regular.ttf') format('truetype'), url('../font/Rubik/Rubik-Regular.svg#Rubik-Regular') format('svg'), url('../font/Rubik/Rubik-Regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik-Bold';
+    src: url('../font/Rubik/Rubik-Bold.eot');
+    src: url('../font/Rubik/Rubik-Bold.woff2') format('woff2'), url('../font/Rubik/Rubik-Bold.woff') format('woff'), url('../font/Rubik/Rubik-Bold.ttf') format('truetype'), url('../font/Rubik/Rubik-Bold.svg#Rubik-Bold') format('svg'), url('../font/Rubik/Rubik-Bold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik-Light';
+    src: url('../font/Rubik/Rubik-Light.eot');
+    src: url('../font/Rubik/Rubik-Light.woff2') format('woff2'), url('../font/Rubik/Rubik-Light.woff') format('woff'), url('../font/Rubik/Rubik-Light.ttf') format('truetype'), url('../font/Rubik/Rubik-Light.svg#Rubik-Light') format('svg'), url('../font/Rubik/Rubik-Light.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik-Medium';
+    src: url('../font/Rubik/Rubik-Medium.eot');
+    src: url('../font/Rubik/Rubik-Medium.woff2') format('woff2'), url('../font/Rubik/Rubik-Medium.woff') format('woff'), url('../font/Rubik/Rubik-Medium.ttf') format('truetype'), url('../font/Rubik/Rubik-Medium.svg#Rubik-Medium') format('svg'), url('../font/Rubik/Rubik-Medium.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}

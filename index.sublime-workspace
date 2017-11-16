@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/colepage/workspace/scores.py",
+		"/Users/colepage/workspace/nba_model/lines_scraper/schedule_cron.py",
+		"/Users/colepage/workspace/nba_model/lines_scraper/nba_lines_scraper.py",
+		"/Users/colepage/workspace/nba_model/SCRAPER/schedule_cron.py",
+		"/Users/colepage/workspace/nba_model/SCRAPER/nba_lines_scraper.py",
+		"/Users/colepage/workspace/NBAMODEL/SCRAPER/nba_lines_scraper.py",
+		"/Users/colepage/workspace/NBAMODEL/SCRAPER/schedule_cron.py",
+		"/Users/colepage/workspace/NBAMODEL/SCRAPER/SBRscraper-master/SBRscraper_NBA.py",
+		"/Users/colepage/Downloads/SBRscraper-master/SBRscraper_NBA.py",
+		"/Users/colepage/workspace/JobSearch/BCFG/Work Sample/css/styles.css",
+		"/Users/colepage/workspace/JobSearch/BCFG/Work Sample/styles.css",
+		"/Users/colepage/Sites/lukebbarker/.htaccess",
+		"/Users/colepage/Downloads/jquery_0ba3087b337f365683b89a6b10957223.js",
+		"/Users/colepage/Downloads/jquery-ui_2d186d32fa5ca550ef4195cffe6ef591.js",
+		"/Users/colepage/Downloads/touche_7bcf731344efc597a505a93d2225dbd5.js",
+		"/Users/colepage/Downloads/video_450d87c3dcd952acbe2b12d7f62262ab.js",
+		"/Users/colepage/Desktop/assignment1_solutions.tex",
+		"/Users/colepage/ML/nba-master/get_possessions.py",
+		"/Users/colepage/Downloads/nba-master/nbaupdate.py",
+		"/Users/colepage/NBAMODEL/colehpage.github.io/pelicanconf.py",
+		"/Users/colepage/NBAMODEL/data/json/shots_0021600099.json",
+		"/Users/colepage/NBAMODEL/blog/pelicanconf.py",
+		"/Users/colepage/BBMODEL/bb_tools.py",
+		"/Users/colepage/NBAMODEL/data/json/boxv2_traditional_0021601160.json",
+		"/Users/colepage/BBMODEL/settings.py",
+		"/Users/colepage/ML/nba-master/bb_tools.py",
+		"/Users/colepage/ML/nba-master/nbaupdate.py",
+		"/Users/colepage/Downloads/nbaModel-master/scrape.py",
+		"/Users/colepage/ML/lukebbarker.github.io/index.html",
+		"/Users/colepage/ML/lukebbarker.github.io/motion.html",
+		"/Users/colepage/ML/lukebbarker.github.io/home.html",
+		"/Users/colepage/ML/lukebbarker.github.io/css/index.css",
+		"/Users/colepage/ML/lukebbarker.github.io/logos.html",
+		"/Users/colepage/Downloads/ps2.tex",
+		"/Users/colepage/ML/lukebbarker.github.io/print.html",
+		"/Users/colepage/ML/matrix/The_Function_problems.py",
+		"/Users/colepage/ML/matrix/coursera_submit.py",
+		"/Users/colepage/Downloads/css3-preloader-transition-1125/css3-preloader-transition-start/css/main.css",
+		"/Users/colepage/Downloads/css3-preloader-transition-1125/css3-preloader-transition-finish/css/main.css",
+		"/Users/colepage/Downloads/ArrowNavigationStyles/css/component.css",
+		"/Users/colepage/Downloads/ArrowNavigationStyles/css/demo.css",
+		"/Users/colepage/Downloads/featherlight-1.4.0/release/featherlight.min.css",
+		"/Users/colepage/Desktop/luke.html",
+		"/Users/colepage/Desktop/LUKE CUSTOM CSS",
+		"/Users/colepage/Desktop/Popup_#1.html",
+		"/Luke_Custom_Css",
+		"/lukecustomcss",
+		"/Users/colepage/Downloads/responsive-shopping-cart-layout/index.html",
+		"/Users/colepage/Desktop/Popup_#2.html",
+		"/Users/colepage/Desktop/popup.html",
+		"/Users/colepage/Desktop/emailcapture.html",
+		"/Users/colepage/Desktop/uikit.css",
+		"/Users/colepage/Desktop/product 2.css",
+		"/Users/colepage/Desktop/product.css",
+		"/Users/colepage/ML/GETTING BACK ON TRACK/Test-Data.csv",
+		"/Users/colepage/ML/Neural-Networks-Demystified/partFive.py",
+		"/Users/colepage/ML/Neural-Networks-Demystified/README.md"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"s",
+				"~/Desktop/emailcapture.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"blockpackprice"
+			]
+		],
+		"width": 360.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

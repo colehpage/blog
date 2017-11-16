@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>MediaElement.js 3.0 - audio/video unification library</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+        <link rel="stylesheet" href="../build/mediaelementplayer.min.css">
+
+        <style>
+            #container {
+                padding: 0 20px 50px;
+            }
+
+            .error {
+                color: red;
+            }
+
+            a {
+                word-wrap: break-word;
+            }
+
+            #player2-container .mejs__time-buffering,
+            #player2-container .mejs__time-current,
+            #player2-container .mejs__time-handle,
+            #player2-container .mejs__time-loaded,
+            #player2-container .mejs__time-hovered,
+            #player2-container .mejs__time-marker,
+            #player2-container .mejs__time-total {
+                height: 2px;
+            }
+
+            #player2-container .mejs__time-total {
+                margin-top: 9px;
+            }
+
+            #player2-container .mejs__time-handle {
+                left: -5px;
+                width: 12px;
+                height: 12px;
+                border-radius: 50%;
+                background: #ffffff;
+                top: -5px;
+                cursor: pointer;
+                display: block;
+                position: absolute;
+                z-index: 2;
+                border: none;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <div id="container">
+            <section>
+                <h1>MediaElement.js</h1>
+
+                <h2><em>audio/video</em> unification library</h2>
+
+                <p><em>MediaElement</em> is a wrapper that mimics the native HTML5 MediaElement syntax (get/set) as a renderer that can handle media from HTML5, YouTube, Vimeo, Soundcloud, Flash, Facebook, and other libraries.</p>
+
+                <p><em>MediaElementPlayer</em> is built off of MediaElement and creates a fully featured player on top of the unified syntax from MediaElement.</p>
+            </section>
+
+            <section>
+                <h3>Global Options</h3>
+                <form action="#" method="get">
+                    <label>Language <select name="lang">
+                    <option value="cs">Čeština / Czech (cs)</option>
+                    <option value="de">Deutsch / German (de)</option>
+                    <option value="en" selected>English (en)</option>
+                    <option value="es">Español / Spanish; Castilian (es)</option>
+                    <option value="fr">Français / French (fr)</option>
+                    <option value="hr">Hrvatski / Croatian (hr)</option>
+                    <option value="hu">Magyar / Hungarian (hu)</option>
+                    <option value="it">Italiano / Italian (it)</option>
+                    <option value="ja">日本語 / Japanese (ja)</option>
+                    <option value="ko">한국어 / Korean (ko)</option>
+                    <option value="nl">Nederlands / Dutch (nl)</option>
+                    <option value="pl">Polski / Polish (pl)</option>
+                    <option value="pt">Português / Portuguese (pt)</option>
+                    <option value="pt-BR">Português / Portuguese (BR) (pt-BR)</option>
+                    <option value="ro">Română / Romanian (ro)</option>
+                    <option value="ru">Русский / Russian (ru)</option>
+                    <option value="sk">Slovensko / Slovak (sk)</option>
+                    <option value="sv">Svenska / Swedish (sv)</option>
+                    <option value="uk">Українська / Ukrainian (uk)</option>
+                    <option value="zh-CN">简体中文 / Simplified Chinese (zh-CN)</option>
+                    <option value="zh">繁体中文 / Traditional Chinese (zh-TW)</option>
+                </select>
+                </label>
+                    <label>Stretching (Video Only)<select name="stretching">
+                    <option value="auto" selected>Auto (default)</option>
+                    <option value="responsive">Responsive</option>
+                    <option value="fill" selected>Fill</option>
+                    <option value="none" selected>None (original dimensions)</option>
+                </select>
+                </label>
+                </form>
+            </section>
+
+            <br>
+            <div class="players" id="player1-container">
+
+                <h3>Video Player</h3>
+
+                <div class="media-wrapper">
+                    <video id="player1" width="640" height="360" style="max-width:100%;" preload="none">
+                    <source src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
+                    <track srclang="en" kind="subtitles" src="mediaelement.vtt">
+                    <track srclang="en" kind="chapters" src="chapters.vtt">
+                </video>
+                </div>
+                <br>
+
+
+            </div>
+        </div>
+
+        <script src="../build/mediaelement-and-player.min.js"></script>
+        <script src="../build/renderers/dailymotion.min.js"></script>
+        <script src="../build/renderers/facebook.min.js"></script>
+        <script src="../build/renderers/soundcloud.min.js"></script>
+        <script src="../build/renderers/twitch.min.js"></script>
+        <script src="../build/renderers/vimeo.min.js"></script>
+        <script src="../build/lang/cs.js"></script>
+        <script src="../build/lang/de.js"></script>
+        <script src="../build/lang/es.js"></script>
+        <script src="../build/lang/fr.js"></script>
+        <script src="../build/lang/hr.js"></script>
+        <script src="../build/lang/hu.js"></script>
+        <script src="../build/lang/it.js"></script>
+        <script src="../build/lang/ja.js"></script>
+        <script src="../build/lang/ko.js"></script>
+        <script src="../build/lang/nl.js"></script>
+        <script src="../build/lang/pl.js"></script>
+        <script src="../build/lang/pt.js"></script>
+        <script src="../build/lang/pt-br.js"></script>
+        <script src="../build/lang/ro.js"></script>
+        <script src="../build/lang/ru.js"></script>
+        <script src="../build/lang/sk.js"></script>
+        <script src="../build/lang/sv.js"></script>
+        <script src="../build/lang/uk.js"></script>
+        <script src="../build/lang/zh-cn.js"></script>
+        <script src="../build/lang/zh.js"></script>
+        <script src="demo.js"></script>
+    </body>
+
+</html>
