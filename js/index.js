@@ -105,6 +105,14 @@ $("nav").click(function() {
 });
 
 
+$(document).keyup(function(e) {
+        if (e.keyCode == 27) { // escape key maps to keycode `27`
+            // <DO YOUR WORK HERE>
+            $(".modal-navigation").css('transform', 'translate(0, -60px)');
+            $("body").css('overflow-y', 'auto');
+            $("body").css('height', 'auto');
+        }
+});
 
 $(document).keyup(function(e) {
     if ($("#nav").hasClass("active")) {
@@ -225,6 +233,8 @@ $(".signin .bg").click(function() {
     }
 
 });
+
+
 
 
 //xxxxxxxxxxxxxx//

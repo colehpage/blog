@@ -1,9 +1,10 @@
 
 
 <h3 style="line-height: 30px;">Underlying Structure Choices</span></h3>
-<p style="font-size: 12px">I want to take a second to talk about some of the choices I have made in regards to the structure of this site moving forward.</p>
+<p class="article-description">UNDER CONSTRUCTION</p>
 
 <p class="article-number">1</p>
+<p class="article-date">Apr. 30th 2017</p>
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
@@ -33,6 +34,7 @@
 					<p>I want to take a second to talk about some of the choices I have made in regards to the structure of this site moving forward. These days there are endless paths to go down depending on what kind of site or blog you are trying to set up. Packages such as Pelican and Hyde make it extreamly easy to write, publish, and push content in a simple, effective, and reproductable way and platforms like Wordpress and GitHub Pages make publishing static content a breeze for beginners and experts alike. </p>
 					<p>Normally, since I plan to consitantly produce material I would go with one of these templated options, but the point of this site is much more than simply a blog. First off, there are portions of this site that will not be static and that pretty much rules out any of the former options. Second, a large part of this site is about design, not just function, and I want complete control over every line of code and pixel, even if that makes each post creation a little more tedious and drawn-out.</p>
 					<p>........</p>
+					<p>Eventually color by article topics?</p>
 				</div>
 
 			</main>

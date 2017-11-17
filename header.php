@@ -19,7 +19,7 @@
     <link rel="stylesheet" type="text/css" href="css/index.css">
     <link rel="stylesheet" type="text/css" href="css/ipython.css">
     <link rel="stylesheet" type="text/css" href="css/notebooks.css">
-
+    <link rel="stylesheet" type="text/css" href="css/colors.css">
 
     <script src="js/modernizr.custom.js"></script>
     <script src="js/jquery.js "></script>
@@ -106,8 +106,7 @@
         <div class="bg" style=""></div>
         <form id="sign-in-form" class="form-signin" action="includes/login.inc.php" method="POST">
             <div class="login-box">
-              <h1 class="hero-contentHeading" style="color: #222; font-size: 30px;text-align: center; font-family: Rubik-Black; margin-bottom: 30px;">LOGIN ACCOUNT</h1>
-              <p style="text-align: center; font-size: 10px;">At the moment this modal does not auto refresh after submission...</p>
+              <h1 class="hero-contentHeading" style="color: #222; font-size: 30px;text-align: center; font-family: Rubik-Black; margin-bottom: 30px;">ACCOUNT LOGIN</h1>
                 <div style="position: relative; height: 80%;">
                     <div class="form-input-box">
                         <input id="login-username" class="form-input" type="text" name="uid" placeholder="Username">

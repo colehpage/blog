@@ -68,6 +68,8 @@ if(isset($_POST['submit'])) {
       $sql = "INSERT INTO user (first, last, email, uid, pwd)
       VALUES ('$first', '$last', '$email', '$uid', '$encrypted_password')";
       $result = mysqli_query($conn, $sql);
+      echo "<meta http-equiv='refresh' content='0'>";
+
 
     }
 

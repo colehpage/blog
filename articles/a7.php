@@ -1,6 +1,5 @@
-
-<h3>ARTICLE 7</h3>
-<p>THIS IS A SAMPLE ARTICLE DESCRIPTION</p>
+<h3 class="thumbnail-title"></h3>
+<p class="article-description"></p>
 
 <p class="article-number">7</p>
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
@@ -24,7 +23,7 @@
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>
-					<p>Published June. 22, 2017</p>
+					<p>Published Nov. 25, 2017</p>
 				</div>
 			</header>
 			<main>

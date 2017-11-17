@@ -1,8 +1,8 @@
 
 <h3 style="line-height: 30px;">Mercurial Analytics: <br><span style="font-size: 20px;">Iteration Zero</span></h3>
-<p style="font-size: 12px;">Hi there! This is the first article on Mercurial Analytics. It isn't data, analytics, or programming related. This is an introduction to what I do here and what the point of this website is, which although still quite vague and abstract, is starting to coalese into something tangible.<br><br>UNFINISHED</p>
-
+<p class="article-description">UNDER CONSTRUCTION</p>
 <p class="article-number">0</p>
+<p class="article-date">Apr. 27th 2017</p>
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
@@ -28,8 +28,7 @@
 				</div>
 			</header>
 			<main>
-				<p>Hello. My name is Cole Page.</p>
-
+				<p>Hi there! My name is Cole Page. This is the first article on Mercurial Analytics. It isn't data, analytics, or programming related. This is an introduction to what I do here and what the point of this website is, which although still quite vague and abstract, is starting to coalese into something tangible.</p>
 
 
 			</main>

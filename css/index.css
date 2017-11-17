@@ -1848,7 +1848,7 @@ input:focus {
 
 .articles-grid li {
     width: 24%;
-    height: 17em;
+    height: 18em;
     margin: 0.5%;
     background: #8CC7DF;
     color: #fff;
@@ -1895,6 +1895,16 @@ input:focus {
     right: 25px;
     font-weight: 400;
     opacity: .2;
+    font-size: 12px;
+}
+
+.articles-grid .article-date {
+    position: absolute;
+    bottom: 0px;
+    left: 25px;
+    font-weight: 400;
+    opacity: .2;
+    font-size: 12px;
 }
 
 .articles-grid li[class^="icon-"]:before, .articles-grid li[class*=" icon-"]:before {
@@ -2020,79 +2030,6 @@ input:focus {
 
 .rb-week>div:first-child [class^="icon-"] {
     opacity: 0.1;
-}
-
-
-/* Colors */
-
-.articles-grid li {
-    background: #33CCCC;
-    border: 2px solid black;
-    color: black;
-}
-
-.articles-grid li:nth-child(1) {
-    background: #fff;
-}
-
-.articles-grid li:nth-child(2) {
-    background: #fff;
-}
-
-.articles-grid li:nth-child(3) {
-    background: rgba(0, 0, 0, .2);
-}
-
-.articles-grid li:nth-child(4) {
-    background: rgba(0, 0, 0, .2);
-}
-
-.articles-grid li:nth-child(5) {
-    background: #fff;
-}
-
-.articles-grid li:nth-child(6) {
-    background: rgba(0, 0, 0, .2);
-}
-
-.articles-grid li:nth-child(7) {
-    background: rgba(0, 0, 0, .2);
-}
-
-.articles-grid li:nth-child(8) {
-    background: #669999;
-}
-
-.articles-grid li:nth-child(9) {
-    background: #CC6699;
-}
-
-.articles-grid li:nth-child(10) {
-    background: #339966;
-}
-
-.articles-grid li:nth-child(11) {
-    background: #666699;
-}
-
-.articles-grid li:nth-child(12) {
-    background: #996699;
-}
-
-.articles-grid li:nth-child(13) {
-    background: #C24747;
-}
-
-.articles-grid li:nth-child(14) {
-    background: #e2674a;
-}
-
-.articles-grid li:nth-child(15) {
-    background: #FFCC66;
-}
-
-.articles-grid li:nth-child(16) {
-    background: #99CC99;
 }
 
 @media screen and (max-width: 63.125em) {
@@ -2687,7 +2624,8 @@ input:focus {
 /* ARTICLE CONTENT */
 
 .article-description {
-    font-size: 12px;
+    font-size: 12px !important;
+    text-align: center;
 }
 
 .article-body {
@@ -3373,4 +3311,18 @@ section.viz {
     .article-title-date {
         font-size: 2.5vw;
     }
+}
+
+.not-ready {
+    pointer-events: none;
+    background: rgba(0, 0, 0, .2) !important;
+    color: #333 !important;
+    border: 2px solid #333;
+
+}
+
+.ready {
+    background: #fff !important;
+    color: #333 !important;
+    border: 2px solid #333;
 }

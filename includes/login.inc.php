@@ -57,6 +57,7 @@ if (isset($_POST['submit'])) {
         $_SESSION['first'] = $row['first'];
         $_SESSION['last'] = $row['last'];
         $_SESSION['email'] = $row['email'];
+        echo "<meta http-equiv='refresh' content='0'>";
       }
 
     }

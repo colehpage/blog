@@ -1,9 +1,9 @@
 
 
 	<h3 style="line-height: 30px;">JaVale By the Numbers</h3>
-	<p style="font-size: 12px;">Just prior to the start of the 2016-2017 NBA season when the big-man depleted Golden State Warriors signed JaVale Magee to a 1-year minimum contract, the critics quickly surfaced. Articles bashing JaVale we’re numerous, and praise nonexistent. Looking at his raw averages of 6.1 points, 3.2 rebounds, and 0.9 blocks in only 9.6 minutes per game won’t blow you away, but his per-36-minute stats are absurd. In this article we take a look at just how impressive a starting full-minutes JaVale would rank up against the rest of the league.</p>
+	<p class="article-description">Just prior to the start of the 2016-2017 NBA season when the big-man depleted Golden State Warriors signed JaVale Magee to a 1-year minimum contract, the critics quickly surfaced. Articles bashing JaVale we’re numerous, and praise nonexistent. Looking at his raw averages of 6.1 points, 3.2 rebounds, and 0.9 blocks in only 9.6 minutes per game won’t blow you away, but his per-36-minute stats are absurd. In this article we take a look at just how impressive a starting full-minutes JaVale would rank up against the rest of the league.</p>
 	<p class="article-number">2</p>
-
+	<p class="article-date">May. 3rd 2017</p>
 	<div class="modal-navigation">
 		<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 		<div class="modal-title">

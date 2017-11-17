@@ -35,78 +35,77 @@
 
         <ul id="articles-grid" class="articles-grid clearfix">
 
+                    <!-- HIDING FOR NOW
 
           <li class="icon-clima-1 rb-span-2">
-            <?php include './articles/a6.php'; ?>
-					</li>
+            <?php include './articles/a15.php'; ?>
+          </li>
 
           <li class="icon-clima-1 rb-span-2">
-            <?php include './articles/a5.php'; ?>
-					</li>
-
-					<li class="icon-clima-1 rb-span-4">
-            <?php include './articles/a4.php'; ?>
-					</li>
-
-          <li class="icon-clima-1 rb-span-2">
-            <?php include './articles/a3.php'; ?>
-					</li>
-
-          <li class="icon-clima-4 rb-span-2">
-            <?php include './articles/a2.php'; ?>
-					</li>
-
-          <li class="icon-clima-1 rb-span-2">
-            <?php include './articles/a1.php'; ?>
-					</li>
-
-          <li class="icon-clima-1 rb-span-2">
-            <?php include './articles/a0.php'; ?>
-					</li>
-
-          <!-- HIDING FOR NOW
-
-          <li class="icon-clima-1 rb-span-1">
-            <?php include './articles/a7.php'; ?>
-					</li>
-
-          <li class="icon-clima-1 rb-span-3">
-            <?php include './articles/a8.php'; ?>
-					</li>
-
-          <li class="icon-clima-1 rb-span-2">
-            <?php include './articles/a9.php'; ?>
-					</li>
-
-          <li class="icon-clima-1 rb-span-2">
-            <?php include './articles/a10.php'; ?>
-					</li>
+            <?php include './articles/a14.php'; ?>
+          </li>
 
           <li class="icon-clima-1 rb-span-4">
-            <?php include './articles/a11.php'; ?>
-					</li>
+            <?php include './articles/a13.php'; ?>
+          </li>
 
           <li class="icon-clima-1 rb-span-2">
             <?php include './articles/a12.php'; ?>
-					</li>
+          </li>
 
           <li class="icon-clima-1 rb-span-2">
-            <?php include './articles/a13.php'; ?>
-					</li>
+            <?php include './articles/a11.php'; ?>
+          </li>
 
           <li class="icon-clima-1 rb-span-3">
-            <?php include './articles/a14.php'; ?>
-					</li>
+            <?php include './articles/a10.php'; ?>
+          </li>
 
           <li class="icon-clima-1 rb-span-1">
-            <?php include './articles/a15.php'; ?>
-					</li>
+            <?php include './articles/a9.php'; ?>
+          </li>
 
           <li class="icon-clima-1 rb-span-4">
-            <?php include './articles/a16.php'; ?>
+            <?php include './articles/a8.php'; ?>
           </li>
 
         -->
+
+          <li class="icon-clima-1 rb-span-1 not-ready">
+            <?php include './articles/a8.php'; ?>
+          </li>
+
+          <li class="icon-clima-1 rb-span-3 not-ready">
+            <?php include './articles/a7.php'; ?>
+          </li>
+
+          <li class="icon-clima-1 rb-span-2 not-ready">
+            <?php include './articles/a6.php'; ?>
+					</li>
+
+          <li class="icon-clima-1 rb-span-2 ready">
+            <?php include './articles/a5.php'; ?>
+					</li>
+
+					<li class="icon-clima-1 rb-span-4 ready">
+            <?php include './articles/a4.php'; ?>
+					</li>
+
+          <li class="icon-clima-1 rb-span-2 not-ready">
+            <?php include './articles/a3.php'; ?>
+					</li>
+
+          <li class="icon-clima-4 rb-span-2 ready">
+            <?php include './articles/a2.php'; ?>
+					</li>
+
+          <li class="icon-clima-1 rb-span-2 not-ready">
+            <?php include './articles/a1.php'; ?>
+					</li>
+
+          <li class="icon-clima-1 rb-span-2 not-ready">
+            <?php include './articles/a0.php'; ?>
+					</li>
 
 				</ul>
       </section>
