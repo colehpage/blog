@@ -7,8 +7,11 @@
 	<div class="modal-navigation">
 		<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 		<div class="modal-title">
-			JaVale By the Numbers
+			<span style="font-weight: 200;">[Basketball]</span> JaVale By the Numbers
 		</div>
+		<div class="modal-title-mobile">
+				May 3, 2017
+			</div>
 		<div class="modal-close">
 			<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">
 			<g fill-rule="evenodd">
@@ -19,7 +22,7 @@
 
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
 		<figure class="article-title-image" id="">
-			<h1 class="">JAVALE BY THE NUMBERS<br>
+			<h1><span class="pre-header">[Basketball]<br></span>JAVALE BY THE NUMBERS<br>
 			<span class="article-title-date">May 3rd 2017</span></h1>
 			<img alt="" class="" src="./img/a2/javale_alley_header.jpg" style="max-height: 100vh; width: 100%;margin: auto;">
 		</figure>

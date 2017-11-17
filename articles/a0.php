@@ -7,7 +7,10 @@
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 			<div class="modal-title">
-				Mercurial Analytics: <span style="font-weight: 200;">Iteration Zero</span>
+				Mercurial Analytics: <span style="font-weight: 200">Iteration Zero</span>
+			</div>
+			<div class="modal-title-mobile">
+				April 27, 2017
 			</div>
 			<div class="modal-close">
 				<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">

@@ -8,7 +8,10 @@
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 			<div class="modal-title">
-				<span style="font-weight: 200;">An Exploration into Plotly's <u>Dash</u>:</span> Live NBA Line Movements
+				<span class="pre-header">[Plotly/Dash]</span>Framework Exploration:<br>Live NBA Line Movements
+			</div>
+			<div class="modal-title-mobile">
+				November 10, 2017
 			</div>
 			<div class="modal-close">
 				<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">
@@ -21,7 +24,7 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1><span style="font-size: 25px; font-weight: 200;"></h1>
+					<h1><span class="pre-header"></h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>

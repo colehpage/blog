@@ -11,6 +11,9 @@
 			<div class="modal-title">
 				<span style="font-weight: 200;">[CS231n]</span> E1Q1: K-Nearest Neighbor Classifier
 			</div>
+			<div class="modal-title-mobile">
+				August 22, 2017
+			</div>
 			<div class="modal-close">
 				<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">
 				<g fill-rule="evenodd">
@@ -22,7 +25,7 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1><span style="font-size: 25px; font-weight: 200;">[CS231n]</span> <br>E1Q1: K-Nearest Neighbor Classifier</h1>
+					<h1><span class="pre-header">[CS231n]</span> <br>E1Q1: K-Nearest Neighbor Classifier</h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>

@@ -8,7 +8,10 @@
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 			<div class="modal-title">
-				Embedding IPython Notebooks
+				<span style="font-weight: 200">[Notes]</span> Embedding IPython Notebooks
+			</div>
+			<div class="modal-title-mobile">
+				August 20, 2017
 			</div>
 			<div class="modal-close">
 				<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">
@@ -18,10 +21,11 @@
 			</div>
 		</div>
 
+
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1>Embedding IPython Notebooks</h1>
+					<h1><span class="pre-header">[Plotly/Dash]<br></span>Embedding IPython Notebooks</h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>
