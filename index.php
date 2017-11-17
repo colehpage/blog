@@ -15,7 +15,7 @@
               <div class="home-section-inner" style="border-bottom: 2px solid #222; margin: 0px; width: 100%;">
                 <div class="home-content-holder">
                     <div class="home-content-wrapper ">
-                        <h1 class="home-content-Heading " style="font-family: 'Rubik-Black'; "><span style="font-family: 'Rubik-light';">[ALWAYS] </span>UNDER CONSTRUCTION...</h1>
+                        <h1 class="home-content-Heading " style="font-family: 'Rubik-Black'; "><span style="font-family: 'Rubik-light';">[ALWAYS] </span>TEST TEST UNDER CONSTRUCTION...</h1>
 
                         <a id="learnmore" href="./about.php" title="Learn More " class="home-content-button " style="font-family: 'Kano-regular'; ">Learn More</a>
                     </div>
