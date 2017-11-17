@@ -1,4 +1,4 @@
-<h3 class="thumbnail-title"></h3>
+<h3 class='thumbnail-title'><span class="article-type">[deeplearning.ai]</span><br>Week 1:<span style="font-size: 18px"><br>Introduction to Deep Learning</span></h3>
 <p class="article-description"></p>
 
 <p class="article-number">8</p>
@@ -23,7 +23,7 @@
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>
-					<p>Published Nov. 25, 2017</p>
+					<p>Published June. 22, 2017</p>
 				</div>
 			</header>
 			<main>

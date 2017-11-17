@@ -1,5 +1,5 @@
 
-<h3 style="line-height: 30px;">Mercurial Analytics: <br><span style="font-size: 20px;">Iteration Zero</span></h3>
+<h3><span class="article-type">[The Beginning]</span><br>Mercurial Analytics:<br><span style="font-size: 18px;">Iteration Zero</span></h3>
 <p class="article-description">UNDER CONSTRUCTION</p>
 <p class="article-number">0</p>
 <p class="article-date">Apr. 27th 2017</p>

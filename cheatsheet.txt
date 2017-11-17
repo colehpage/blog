@@ -1,0 +1,14 @@
+Site Update Commands:
+
+GitHub:
+
+$ git add *
+$ git commit -m "message"
+$ git push origin master
+
+GoDaddy Blog Cpanel:
+
+$ git add *
+$ git commit -m "message"
+$ git push blog
+

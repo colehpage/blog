@@ -1,6 +1,6 @@
 
 
-<h3 style="line-height: 30px;">Underlying Structure Choices</span></h3>
+<h3><span class="article-type">[Notes]</span><br>Underlying Structure Choices</span></h3>
 <p class="article-description">UNDER CONSTRUCTION</p>
 
 <p class="article-number">1</p>

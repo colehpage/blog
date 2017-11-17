@@ -41,8 +41,6 @@ $special = $event.special.debouncedresize = {
 
 var Boxgrid = (function() {
 
-    var $scrollpos = $('body').scrollTop();
-
     var $items = $('#articles-grid > li'),
         transEndEventNames = {
             'WebkitTransition': 'webkitTransitionEnd',
@@ -80,8 +78,10 @@ var Boxgrid = (function() {
 
             $item.on('click', function() {
 
-                $scrollpos = $('body').scrollTop();
-                //console.log($scrollpos);
+                $scrollpos = $(window).scrollTop();
+                console.log($scrollpos);
+
+                $overlay.addClass("article_view");
 
                 if ($item.data('isExpanded')) {
                     return false;
@@ -130,19 +130,14 @@ var Boxgrid = (function() {
 
             });
 
-            $(document).keyup(function(e) {
-                if ($overlay.css('opacity') != 0) {
-                    if (e.keyCode == 27) $close.trigger('click');
-                }
-            });
-
-
             $close.on('click', function() {
                 $('div.rb-overlay').scrollTop(0);
                 $body.css('overflow-y', 'auto');
                 $body.css('height', 'auto');
-                $body.scrollTop($scrollpos);
                 $nav.css('transform', 'translate(0, -60px)');
+                $overlay.removeClass('article_view');
+                $(window).scrollTop($scrollpos);
+
 
                 var layoutProp = getItemLayoutProp($item),
                     clipPropFirst = 'rect(' + layoutProp.top + 'px ' + (layoutProp.left + layoutProp.width) + 'px ' + (layoutProp.top + layoutProp.height) + 'px ' + layoutProp.left + 'px)',
@@ -182,6 +177,12 @@ var Boxgrid = (function() {
 
                 return false;
 
+            });
+
+            $(document).keyup(function(e) {
+                if ($overlay.hasClass("article_view")) {
+                    if (e.keyCode == 27) $close.trigger('click');
+                }
             });
 
         });

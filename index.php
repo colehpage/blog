@@ -57,29 +57,25 @@
             <?php include './articles/a11.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-3">
+                  -->
+
+          <li class="icon-clima-1 rb-span-1 not-ready">
             <?php include './articles/a10.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-1">
+          <li class="icon-clima-1 rb-span-3 not-ready">
             <?php include './articles/a9.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-4">
+          <li class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a8.php'; ?>
           </li>
 
-        -->
-
-          <li class="icon-clima-1 rb-span-1 not-ready">
-            <?php include './articles/a8.php'; ?>
-          </li>
-
-          <li class="icon-clima-1 rb-span-3 not-ready">
+          <li class="icon-clima-1 rb-span-2 ready">
             <?php include './articles/a7.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-2 not-ready">
+          <li class="icon-clima-1 rb-span-4 not-ready">
             <?php include './articles/a6.php'; ?>
 					</li>
 
@@ -87,15 +83,15 @@
             <?php include './articles/a5.php'; ?>
 					</li>
 
-					<li class="icon-clima-1 rb-span-4 ready">
+					<li class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a4.php'; ?>
 					</li>
 
-          <li class="icon-clima-1 rb-span-2 not-ready">
+          <li class="icon-clima-1 rb-span-1 not-ready">
             <?php include './articles/a3.php'; ?>
 					</li>
 
-          <li class="icon-clima-4 rb-span-2 ready">
+          <li class="icon-clima-1 rb-span-3 ready">
             <?php include './articles/a2.php'; ?>
 					</li>
 

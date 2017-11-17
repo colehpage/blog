@@ -1,6 +1,6 @@
 
-<h3>ARTICLE 9</h3>
-<p>THIS IS A SAMPLE ARTICLE DESCRIPTION</p>
+<h3></h3>
+<p></p>
 
 <p class="article-number">9</p>
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
