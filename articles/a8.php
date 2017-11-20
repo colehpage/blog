@@ -2,11 +2,15 @@
 <p class="article-description"></p>
 
 <p class="article-number">8</p>
+<p class="article-date">Nov. 20th 2017</p>
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 			<div class="modal-title">
-				TEST ARTICLE TITLE
+				<span style="font-weight: 200;">[deeplearning.ai]</span> Week 1: Introduction to Deep Learning
+			</div>
+			<div class="modal-title-mobile">
+				Nov 20, 2017
 			</div>
 			<div class="modal-close">
 				<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">
@@ -19,11 +23,11 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1>THIS IS A SAMPLE ARTICLE HEADER</h1>
+					<h1><span class="pre-header">[deeplearning.ai]<br></span>Week 1:<br>Introduction to Deep Learning</h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>
-					<p>Published June. 22, 2017</p>
+					<p>Published November 20, 2017</p>
 				</div>
 			</header>
 			<main>

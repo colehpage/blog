@@ -52,6 +52,8 @@ if (isset($_POST['submit'])) {
       }
 
       else {
+        $sql = "UPDATE user SET last_seen = NOW() WHERE uid='$uid'";
+        $result = mysqli_query($conn, $sql);
         $_SESSION['id'] = $row['id'];
         $_SESSION['uid'] = $row['uid'];
         $_SESSION['first'] = $row['first'];

@@ -35,7 +35,7 @@
 			<main>
 				<h2>What is Dash?</h2>
 
-				<img src='./img/a6/dash.png' width=400 height=250 style="margin-top: 20px; margin-bottom: 50px;">
+				<img src='./img/a7/dash.png' width=400 height=250 style="margin-top: 20px; margin-bottom: 50px;">
 
 				<p><a href="https://plot.ly/products/dash/">Dash</a> is an Open Source Python library for creating reactive, Web-based applications. Dash makes it extreamly easy to build a GUI or live visualization around your data analysis code, all without stepping outside of the Python language. Dash apps are viewed in the web browser without the need for any user built javascript or HTML, instead using a growing set of interactive web-based components to bind custom data analysis in Python to your Dash user interface.</p>
 
@@ -55,7 +55,7 @@
 				<p>DASHBOARD: <a href=" https://nba-line-movements.herokuapp.com/"> https://nba-line-movements.herokuapp.com/</a></p>
 
 				<video style="margin-top: 50px;" width="1000" autoplay loop>
-				  <source src="./mov/dashboard_screencast.mp4" type="video/mp4">
+				  <source src="./mov/a7/dashboard_screencast.mp4" type="video/mp4">
 				Your browser does not support the video tag.
 				</video>
 

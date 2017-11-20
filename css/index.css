@@ -1,3 +1,8 @@
+:root {
+  --bg-color: rgb(245,245,245);
+}
+
+
 html {
     font-family: sans-serif;
     line-height: 1.15;
@@ -15,7 +20,7 @@ body {
     font-size: 1rem;
     line-height: 1.5;
     color: #373a3c;
-    background-color: white;
+    background-color: var(--bg-color);
 }
 
 #web-frame {
@@ -968,7 +973,7 @@ a.branding-mercurialAnalytics:hover svg path {
 }
 
 .home-section {
-    background-color: #fff;
+    background-color: var(--bg-color);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
@@ -978,25 +983,25 @@ a.branding-mercurialAnalytics:hover svg path {
 
 @media (max-width:1680px) {
     .home-section {
-        height: 500px
+        height: 400px
     }
 }
 
 @media (max-width:1170px) {
     .home-section {
-        height: 450px
+        height: 375px
     }
 }
 
 @media (max-width:768px) {
     .home-section {
-        height: 425px
+        height: 350px
     }
 }
 
 @media (max-width:640px) {
     .home-section {
-        height: 400px
+        height: 300px
     }
 }
 
@@ -1107,7 +1112,7 @@ a.branding-mercurialAnalytics:hover svg path {
 
 .home-content-Caption {
     display: none;
-    text-decoration: none
+    text-decoration: none;
 }
 
 .home-content-Caption:hover {
@@ -1117,7 +1122,7 @@ a.branding-mercurialAnalytics:hover svg path {
 
 @media (min-width:768px) {
     .home-content-Caption {
-        background: transparent;
+        background: #fff;
         border-top: #222 solid 2px;
         border-left: #222 solid 2px;
         border-right: #222 solid 2px;
@@ -1837,13 +1842,14 @@ input:focus {
     height: 100%;
     margin: 0px auto;
     width: 90%;
-    background: white;
+    background: var(--bg-color);
 }
 
 .articles-grid {
     list-style: none;
     text-align: center;
     margin: 0 auto;
+    background-color: var(--bg-color);
 }
 
 .articles-grid li {
@@ -3368,4 +3374,52 @@ section.viz {
     line-height: 30px;
     text-align: center;
     text-transform: lowercase;
+}
+
+
+.two-column-article {
+    display: -webkit-flex;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.left-column {
+    flex: 3 0 0;
+    order: 1;
+}
+
+.right-column {
+    flex: 1 0 0;
+    order: 2;
+}
+
+@media (max-width: 670px) {
+
+    .left-column {
+        order: 2;
+        flex: 1 100%;
+    }
+
+    .right-column {
+        order: 1;
+        flex: 1 100%;
+    }
+
+}
+
+.column-centered-image {
+    padding: 5%;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+
+.about-section p {
+    text-align: center !important;
 }

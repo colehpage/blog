@@ -19,7 +19,8 @@
 
                         <a id="learnmore" href="./about.php" title="Learn More " class="home-content-button " style="font-family: 'Kano-regular'; ">Learn More</a>
                     </div>
-                    <div href=" " class="home-content-Caption ">
+                    <div href="" class="home-content-Caption ">
+<!--                       <p class="home-content-CaptionLabel " style="text-align: center; font-size: 14px;">I have neither the time nor the crayons to explain this to you.</p> -->
                         <p class="home-content-CaptionLabel ">NEXT PROJECT</p>
                         <h4 class="home-content-CaptionHeading ">Who is Jordan Bell?</h4>
                         <p class="home-content-CaptionText ">A Statistical look at the former Oregon Fighting Duck and newest Golden State Warrior, Jordan Bell.</p>
@@ -37,69 +38,69 @@
 
                     <!-- HIDING FOR NOW
 
-          <li class="icon-clima-1 rb-span-2">
+          <li id="" class="icon-clima-1 rb-span-2">
             <?php include './articles/a15.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-2">
+          <li id="" class="icon-clima-1 rb-span-2">
             <?php include './articles/a14.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-4">
+          <li id="" class="icon-clima-1 rb-span-4">
             <?php include './articles/a13.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-2">
+          <li id="" class="icon-clima-1 rb-span-2">
             <?php include './articles/a12.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-2">
+          <li id="" class="icon-clima-1 rb-span-2">
             <?php include './articles/a11.php'; ?>
           </li>
 
                   -->
 
-          <li class="icon-clima-1 rb-span-1 not-ready">
+          <li id="" class="icon-clima-1 rb-span-1 not-ready">
             <?php include './articles/a10.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-3 not-ready">
+          <li id="" class="icon-clima-1 rb-span-3 not-ready">
             <?php include './articles/a9.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-2 not-ready">
+          <li id="" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a8.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-2 ready">
+          <li id="" class="icon-clima-1 rb-span-2 ready">
             <?php include './articles/a7.php'; ?>
           </li>
 
-          <li class="icon-clima-1 rb-span-4 not-ready">
+          <li id="" class="icon-clima-1 rb-span-4 not-ready">
             <?php include './articles/a6.php'; ?>
 					</li>
 
-          <li class="icon-clima-1 rb-span-2 ready">
+          <li id="" class="icon-clima-1 rb-span-2 ready">
             <?php include './articles/a5.php'; ?>
 					</li>
 
-					<li class="icon-clima-1 rb-span-2 not-ready">
+					<li id="" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a4.php'; ?>
 					</li>
 
-          <li class="icon-clima-1 rb-span-1 not-ready">
+          <li id="moving_article" class="icon-clima-1 rb-span-1 ready">
             <?php include './articles/a3.php'; ?>
 					</li>
 
-          <li class="icon-clima-1 rb-span-3 ready">
+          <li id="javale_article" class="icon-clima-1 rb-span-3 ready">
             <?php include './articles/a2.php'; ?>
 					</li>
 
-          <li class="icon-clima-1 rb-span-2 not-ready">
+          <li id="structure_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a1.php'; ?>
 					</li>
 
-          <li class="icon-clima-1 rb-span-2 not-ready">
+          <li id="intro_article" class="icon-clima-1 rb-span-2 ready" style="background: #67A2FF !important;">
             <?php include './articles/a0.php'; ?>
 					</li>
 
