@@ -52,13 +52,13 @@ if (isset($_POST['submit'])) {
       }
 
       else {
-        $sql = "UPDATE user SET last_seen = NOW() WHERE uid='$uid'";
-        $result = mysqli_query($conn, $sql);
         $_SESSION['id'] = $row['id'];
         $_SESSION['uid'] = $row['uid'];
         $_SESSION['first'] = $row['first'];
         $_SESSION['last'] = $row['last'];
         $_SESSION['email'] = $row['email'];
+        $_SESSION['email'] = $row['last_seen'];
+
         echo "<meta http-equiv='refresh' content='0'>";
       }
 

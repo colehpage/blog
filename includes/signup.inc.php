@@ -65,11 +65,10 @@ if(isset($_POST['submit'])) {
     else {
 
       $encrypted_password = password_hash($pwd, PASSWORD_DEFAULT);
-      $sql = "INSERT INTO user (first, last, email, uid, pwd)
-      VALUES ('$first', '$last', '$email', '$uid', '$encrypted_password')";
+      $sql = "INSERT INTO user (first, last, email, uid, pwd, created)
+      VALUES ('$first', '$last', '$email', '$uid', '$encrypted_password', NOW())";
       $result = mysqli_query($conn, $sql);
       echo "<meta http-equiv='refresh' content='0'>";
-
 
     }
 

@@ -15,7 +15,7 @@
   					<h1>THIS IS YOUR ACCOUNT</h1>
   				</div>
   				<div class="article-title-metadata">
-  					<p>Last Login: Nov. 10, 2017</p>
+  					<p>Last Login: <?php echo $_SESSION['last_seen'] ?></p>
   				</div>
   			</header>
         <main style="font-size: 16px;max-width: 500px; margin: auto;">
