@@ -35,8 +35,8 @@
       <section class="home-articles" style="padding-top: 5px;">
 
         <ul id="articles-grid" class="articles-grid clearfix">
-
-                    <!-- HIDING FOR NOW
+<!-- 
+                    HIDING FOR NOW
 
           <li id="" class="icon-clima-1 rb-span-2">
             <?php include './articles/a15.php'; ?>
@@ -52,39 +52,37 @@
 
           <li id="" class="icon-clima-1 rb-span-2">
             <?php include './articles/a12.php'; ?>
-          </li>
+          </li> -->
 
-          <li id="" class="icon-clima-1 rb-span-2">
+          <li id="_article" class="icon-clima-1 rb-span-4 not-ready">
             <?php include './articles/a11.php'; ?>
-          </li>
+          </li>  
 
-                  -->
-
-          <li id="" class="icon-clima-1 rb-span-1 not-ready">
+          <li id="deeplearning_w2_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a10.php'; ?>
           </li>
 
-          <li id="" class="icon-clima-1 rb-span-3 not-ready">
+          <li id="deelearning_w1_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a9.php'; ?>
           </li>
 
-          <li id="" class="icon-clima-1 rb-span-2 not-ready">
+          <li id="scraping_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a8.php'; ?>
           </li>
 
-          <li id="" class="icon-clima-1 rb-span-2 ready">
+          <li id="dash_article" class="icon-clima-1 rb-span-2 ready">
             <?php include './articles/a7.php'; ?>
           </li>
 
-          <li id="" class="icon-clima-1 rb-span-4 not-ready">
+          <li id="cavs_defense_article" class="icon-clima-1 rb-span-4 ready">
             <?php include './articles/a6.php'; ?>
 					</li>
 
-          <li id="" class="icon-clima-1 rb-span-2 ready">
+          <li id="knn_article" class="icon-clima-1 rb-span-2 ready">
             <?php include './articles/a5.php'; ?>
 					</li>
 
-					<li id="" class="icon-clima-1 rb-span-2 not-ready">
+					<li id="embedding_ipynb_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a4.php'; ?>
 					</li>
 
@@ -100,7 +98,7 @@
             <?php include './articles/a1.php'; ?>
 					</li>
 
-          <li id="intro_article" class="icon-clima-1 rb-span-2 ready" style="background: #67A2FF !important;">
+          <li id="intro_article" class="icon-clima-1 rb-span-2 ready" style="background: rgba(103,162,255,.75) !important;">
             <?php include './articles/a0.php'; ?>
 					</li>
 

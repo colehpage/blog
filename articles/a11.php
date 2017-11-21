@@ -1,13 +1,16 @@
-
-<h3>ARTICLE 11</h3>
-<p>THIS IS A SAMPLE ARTICLE DESCRIPTION</p>
+<h3 class='thumbnail-title'><span class="article-type">[basketball]</span>
+<p class="article-description"></p>
 
 <p class="article-number">11</p>
+<p class="article-date">Dec. 4th 2017</p>
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 			<div class="modal-title">
-				TEST ARTICLE TITLE
+				<span style="font-weight: 200;">[basketball]</span> 
+			</div>
+			<div class="modal-title-mobile">
+				Dec 4, 2017
 			</div>
 			<div class="modal-close">
 				<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">
@@ -20,11 +23,11 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1>THIS IS A SAMPLE ARTICLE HEADER</h1>
+					<h1><span class="pre-header">[basketball]<br></span></h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>
-					<p>Published June. 22, 2017</p>
+					<p>Published December 4, 2017</p>
 				</div>
 			</header>
 			<main>

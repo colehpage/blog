@@ -1,5 +1,5 @@
 
-<h3><span class="article-type">[Plotly/Dash]</span><br>Framework Exploration:<br><span style="font-size: 18px;">Live NBA Line Movements</span></h3>
+<h3><span class="article-type">[Plotly/Dash]</span><br>Dash Framework Exploration:<br><span style="font-size: 18px;">Live NBA Line Movements</span></h3>
 
 <p class="article-description">Always in search of new data viszualization methods and tools, I recently came across Dash, a Python framework built on top of Plotly.js, React, and Flask with the purpose of building analytical web applications completely in Python. Dash works as the frontend to our analytical Python backend. In order to get a feel for the platform I decided to build out a sample application that uses many of Dash's features.</p>
 
@@ -25,7 +25,7 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1><span class="pre-header">[Plotly/Dash]<br></span>Framework Exploration:<br>Live NBA Line Movements</h1>
+					<h1><span class="pre-header">[Plotly/Dash]<br></span>Dash Framework Exploration:<br>Live NBA Line Movements</h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>

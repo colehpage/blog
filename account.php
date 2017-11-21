@@ -15,11 +15,11 @@
   					<h1>THIS IS YOUR ACCOUNT</h1>
   				</div>
   				<div class="article-title-metadata">
-  					<p>Last Login: <?php echo $_SESSION['last_seen'] ?></p>
+  					<p>Last Login:<br><span style="font-weight: 200;"><?php echo $_SESSION['last_seen'] ?></span></p>
   				</div>
   			</header>
         <main style="font-size: 16px;max-width: 500px; margin: auto;">
-            <p style="font-size: 13px; text-align: center;padding-bottom: 50px;">Currently your Account has very little useful functionality.<br>You can't even change or reset your password yet!</p>
+            <p style="font-size: 13px; text-align: center;padding-bottom: 50px;">Currently your Account has very little useful functionality.<br>You can't even change or reset your password yet!<br><br>Someday an account might be a privledge and get you special fancy things!</p>
             <p>Name:<span style="float: right; font-weight: 600;"><?php echo $_SESSION['first']." ".$_SESSION['last'] ?></span></p>
             <p>Account Name:<span style="float: right; font-weight: 600;"><?php echo $_SESSION['uid']?></span></p>
             <p>Email:<span style="float: right; font-weight: 600;"><?php echo $_SESSION['email']?></span></p>
