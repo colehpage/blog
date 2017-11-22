@@ -47,7 +47,7 @@
         <p>The next iteration may be something wholey different, I have some decently vague, possibly interesting, ideas for iteration two's direction, but for now:</p>
 
         <p>This is simply a digital notebook, publication, canvas, and autodidact playground.</p>
-        <p>Enjoy. Or ya know, don't....</p>
+        <p>Enjoy. Or ya know, don't.... totally up to you</p>
 
         <span style="font-size: 10px;"><br><br>P.S. If for some insane reason you want to pay me to do anything give me a shout with your ill-advised proposition: <b>coleatmercurialanalyticsdotcom</b></span>
 

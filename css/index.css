@@ -3220,7 +3220,7 @@ section.viz.half table.viz.full {
 .commentarea {
     width: 100%;
     margin-left: 0%;
-    min-height: 150px;
+    min-height: 100px;
     resize: none;
     padding: 10px 20px;
     height: auto;
@@ -3443,7 +3443,6 @@ section.viz {
 .highlight pre {
     margin: 0;
 }
-
 
 /* w3 CSS */
 

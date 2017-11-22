@@ -25,18 +25,19 @@
 				<div class="article-title">
 					<h1><span class="pre-header">[deeplearning.ai]<br></span>Week 2:<br>Neural Networks Basics</h1>
 				</div>
+
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>
 					<p>Published December 11, 2017</p>
 				</div>
+				
 			</header>
 			<main>
 
 
-
 			</main>
 			<footer>
-				<section class="comments" style="display: none;">
+				<section class="comments" style="display: block;">
 					<?php
           if(isset($_SESSION['id'])) {
             echo "<form id='commentform' method='POST' action=' ".setComments($conn)." '>

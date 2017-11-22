@@ -101,3 +101,8 @@ section.comments {
 .output_wrapper {
     margin-bottom: 25px;
 }
+
+.dataframe {
+    min-width: 70%;
+    margin: auto;
+}

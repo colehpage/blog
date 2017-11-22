@@ -49,7 +49,7 @@
 				</div>
 			</main>
 			<footer>
-				<section class="comments" style="display: none;">
+				<section class="comments" style="display: block;">
 					<?php
           if(isset($_SESSION['id'])) {
             echo "<form id='commentform' method='POST' action=' ".setComments($conn)." '>
