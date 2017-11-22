@@ -1,5 +1,3 @@
-
-
 <h3><span class="article-type">[Notes]</span><br>Moving Apartments!</h3>
 <p class="article-description">Next week I'm moving into a new apartment so I will probably be a little bit dormant here for the next month or two while I get settled. See ya in a bit!</p>
 
@@ -25,7 +23,7 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1>Moving Apartments!</h1>
+					<h1><span class="pre-header">[Notes]<br></span>Moving Apartments!</h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>

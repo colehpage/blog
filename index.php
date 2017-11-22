@@ -35,26 +35,24 @@
       <section class="home-articles" style="padding-top: 5px;">
 
         <ul id="articles-grid" class="articles-grid clearfix">
-<!-- 
-                    HIDING FOR NOW
 
-          <li id="" class="icon-clima-1 rb-span-2">
+          <li id="nba_rankings_m1_article" class="icon-clima-1 rb-span-4 not-ready">
             <?php include './articles/a15.php'; ?>
           </li>
 
-          <li id="" class="icon-clima-1 rb-span-2">
+          <li id="deeplearning_w3_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a14.php'; ?>
           </li>
 
-          <li id="" class="icon-clima-1 rb-span-4">
+          <li id="nba_rankings_m1_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a13.php'; ?>
           </li>
 
-          <li id="" class="icon-clima-1 rb-span-2">
+          <li id="deeplearning_w3_article" class="icon-clima-1 rb-span-1 not-ready">
             <?php include './articles/a12.php'; ?>
-          </li> -->
+          </li>
 
-          <li id="_article" class="icon-clima-1 rb-span-4 not-ready">
+          <li id="celtics_streak_article" class="icon-clima-1 rb-span-3 not-ready">
             <?php include './articles/a11.php'; ?>
           </li>  
 
@@ -82,7 +80,7 @@
             <?php include './articles/a5.php'; ?>
 					</li>
 
-					<li id="embedding_ipynb_article" class="icon-clima-1 rb-span-2 not-ready">
+					<li id="embedding_ipynb_article" class="icon-clima-1 rb-span-2 ready">
             <?php include './articles/a4.php'; ?>
 					</li>
 

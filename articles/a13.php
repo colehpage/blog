@@ -1,13 +1,16 @@
-
-<h3>ARTICLE 13</h3>
-<p>THIS IS A SAMPLE ARTICLE DESCRIPTION</p>
+<h3 class='thumbnail-title'><span class="article-type">[deeplearning.ai]</span><br>Week 2:<span style="font-size: 18px"><br>Neural Networks Basics</span></h3>
+<p class="article-description">UNDER CONSTRUCTION</p>
 
 <p class="article-number">13</p>
+<p class="article-date">Dec. 11th 2017</p>
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 			<div class="modal-title">
-				TEST ARTICLE TITLE
+				<span style="font-weight: 200;">[deeplearning.ai]</span> Week 2: Neural Networks Basics
+			</div>
+			<div class="modal-title-mobile">
+				Dec 11, 2017
 			</div>
 			<div class="modal-close">
 				<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">
@@ -20,11 +23,11 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1>THIS IS A SAMPLE ARTICLE HEADER</h1>
+					<h1><span class="pre-header">[deeplearning.ai]<br></span>Week 2:<br>Neural Networks Basics</h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>
-					<p>Published June. 22, 2017</p>
+					<p>Published December 11, 2017</p>
 				</div>
 			</header>
 			<main>

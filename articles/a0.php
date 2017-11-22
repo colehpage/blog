@@ -23,7 +23,7 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1 style="line-height: 30px;">Mercurial Analytics:<br><span style="font-weight: 200; font-size: 20px">Iteration Zero</span></h1>
+					<h1><span class="pre-header">[The Beginning]<br></span>Mercurial Analytics:<br><span style="font-weight: 200; font-size: 20px">Iteration Zero</span></h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>

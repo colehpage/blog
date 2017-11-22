@@ -42,9 +42,6 @@ pre {
     border: 1px solid rgb(111, 111, 111);
 }
 
-.text_cell_render {
-    display: none;
-}
 
 .article_analysis {
     margin-top: 50px;
@@ -53,4 +50,54 @@ pre {
 
 section.comments {
     display: none !important;
+}
+
+.input_prompt {
+    display: none;
+}
+
+.output_prompt {
+    display: none;
+}
+.rendered .input {
+    margin-bottom: 25px;
+    margin-top: 25px;
+
+}
+
+.rendered th {
+    text-align: center;
+}
+
+.dataframe thead tr:only-child th {
+    text-align: center !important;
+    padding: 5px !important;
+}
+
+.anchor-link {
+    display: none;
+}
+
+.rendered h1 {
+    font-size: 20px !important;
+    text-align: left !important;
+}
+
+.rendered h2 {
+    font-size: 18px !important;
+    text-align: left !important;
+}
+
+.rendered h3 {
+    font-size: 16px !important;
+    text-align: left !important;
+}
+
+.rendered h4 {
+    font-size: 14px !important;
+    text-align: left !important;
+}
+
+.output_wrapper {
+    margin-bottom: 25px;
 }

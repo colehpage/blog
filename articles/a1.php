@@ -25,7 +25,7 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1>Underlying Structure Choices</h1>
+					<h1><span class="pre-header">[Notes]<br></span>Underlying Structure Choices</h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>

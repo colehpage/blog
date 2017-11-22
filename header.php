@@ -26,6 +26,7 @@
     <script src="js/index.js "></script>
     <script src="js/jquery.fittext.js "></script>
     <script src="js/boxgrid.js "></script>
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

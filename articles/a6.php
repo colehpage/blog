@@ -21,7 +21,7 @@
 		</div>
 	</div>
 		<figure class="article-title-image" id="">
-			<h1 style="text-transform: uppercase; line-height: .9;"><span class="pre-header">[Basketball]<br></span>The Atrocious Defense of the Cleveland Cavaliers<br>
+			<h1 style="text-transform: uppercase; line-height: .9;"><span class="pre-header" style="text-transform: none;">[Basketball]<br></span>The Atrocious Defense of the Cleveland Cavaliers<br>
 			<span class="article-title-date">November 9th 2017</span></h1>
 			<img alt="" class="" src="./img/a6/lebron_complaining.jpg" style="max-height: 100vh; width: 100%;margin: auto;">
 		</figure>
@@ -43,7 +43,7 @@
 				<p>I'm starting to let my anti-LeBron feelings take over a little here so I'll cool it for a second and go back to Celevland's numerous other issues on the defensive end.</p>
 
 				<p>So far this season Cleveland is giving up a league worst 5 more points per 100 possessions (108-113) compared to last season, not a good sign for a defense that was already dropping off in the second half of last season. Cleveland is currently 29th in <a href="https://www.teamrankings.com/nba/stat/opponent-shooting-pct?date=2017-11-10">Opponent Field Goal Percentage</a> as well as 23rd in Blocks and 29th in Steals, showing a complete lack of individual effort across the board.</p>
-				
+
 				<p>The only caveat through these first 12 games, is that I truly believe a majority of these defensive woes come a lack of effort vs. a lack of ability, which makes turning them around a much easier task. If you've any of these early games a recurring theme is the atrocious lack of energy at the start of games. The games they have won have usually involved LBJ taking over late game and barely eeking out a win, but Cleveland currently ranks dead last in both 1st half and 1st quarter points allowed, giving up an astounding 2 points more than the next worst team in the Lakers. I get it, you guys are really really old and the energy just isnt there but if you want any chance of getting back to the Finals this year, pop a few redbulls at shootaround and stop sleeping through the first half or you are going to keep giving up 110+ points to the bottom of the east.</p>
 
 				<p>Okay, back to LBJ! There are a lot of reasons why LeBron has seemingly dropped off so precipitisly on the defensive end, and personally I think all have them come down to effort and lack of killer mentality, the one thing that FOR ME will always keep him out of the GOAT conversation. Jordan, Kobe, Bird, Magic, they had it in droves whether it was the 12th game of the season or game 7 of the finals. LeBron is the most athletically gifted, dominant player this league has probably ever seen, and yet he acts absurdly soft constantly. That's all there is to it.</p>
