@@ -1,4 +1,4 @@
-<h3><span class="article-type">[Notes]</span><br>Moving Apartments!</h3>
+<h3><span class="article-type">Notes</span><br>Moving Apartments!</h3>
 <p class="article-description">Next week I'm moving into a new apartment so I will probably be a little bit dormant here for the next month or two while I get settled. See ya in a bit!</p>
 
 <p class="article-number">3</p>

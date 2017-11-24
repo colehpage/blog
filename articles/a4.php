@@ -1,5 +1,5 @@
 
-<h3 style="line-height: 30px;"><span class="article-type">[Notes]</span><br>Embedding Jupyter Notebooks</span></h3>
+<h3 style="line-height: 30px;"><span class="article-type">Notes</span><br>Embedding Jupyter Notebooks</span></h3>
 <p class="article-description">Jupyter Notebooks are one of the more constant tools I use in my workflow so I want to quickly go through my process of converting them to embedded HTML that is usuable in these posts moving forward. For this I have decided to use <u>nbconvert</u>, a Jupyter Notebook conversion tool, built on top of <u>Jinja</u> that allows researchers/scientists to quickly and easily deliver results across a number of static mediums.</p>
 
 <p class="article-number">4</p>

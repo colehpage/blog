@@ -52,7 +52,7 @@
             <?php include './articles/a12.php'; ?>
           </li>
 
-          <li id="celtics_streak_article" class="icon-clima-1 rb-span-3 not-ready">
+          <li id="scraping_article" class="icon-clima-1 rb-span-3 not-ready">
             <?php include './articles/a11.php'; ?>
           </li>  
 
@@ -64,7 +64,7 @@
             <?php include './articles/a9.php'; ?>
           </li>
 
-          <li id="scraping_article" class="icon-clima-1 rb-span-2 not-ready">
+          <li id="celtics_streak_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a8.php'; ?>
           </li>
 
@@ -92,7 +92,7 @@
             <?php include './articles/a2.php'; ?>
 					</li>
 
-          <li id="structure_article" class="icon-clima-1 rb-span-2 not-ready">
+          <li id="structure_article" class="icon-clima-1 rb-span-2 ready">
             <?php include './articles/a1.php'; ?>
 					</li>
 

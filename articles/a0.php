@@ -1,5 +1,5 @@
 
-<h3 style="color: #fff !important;"><span class="article-type">[The Beginning]</span><br>Mercurial Analytics:<br><span style="font-size: 18px;">Iteration Zero</span></h3>
+<h3 style="color: #fff !important;"><span class="article-type">The Beginning</span><br>Mercurial Analytics:<br><span style="font-size: 18px;">Iteration Zero</span></h3>
 <p class="article-description" style="color: #fff !important;">This is the first iteration of Mercurial Analytics, a sort-of public sandbox and playground of ideas, work, and musings belonging to Cole Page. Right now a fairly abstract curvey idea, it may eventually coelesce into something stable and with purpose, or it may not...</p>
 <p class="article-number" style="color: #fff !important;">0</p>
 <p class="article-date" style="color: #fff !important;">Apr. 27th 2017</p>

@@ -1,5 +1,5 @@
 
-<h3><span class="article-type">[CS231n]</span><br>E1Q1: KNN Classifiers</h3>
+<h3><span class="article-type">CS231n</span><br>E1Q1: KNN Classifiers</h3>
 
 <p class="article-description">This morning I want to test out my method for integrating ipython notebook work into blog posts while simultaniously brushing a little rust off my understanding of Convolutional Neural Nets. Lets do this by working through the first exercise in Stanford's CS231n: Convolutional Neural Networks for Visual Recognition class. Much of the material is familiar to me but a lot of the application is new as I have not worked extensivly on applying ML to imaging problems so it seems like a good way to get the gears turning!</p>
 

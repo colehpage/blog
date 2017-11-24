@@ -1,4 +1,4 @@
-<h3 class='thumbnail-title'><span class="article-type">[deeplearning.ai]</span><br>Week 3:<span style="font-size: 18px"><br>Shallow Neural Networks</span></h3>
+<h3 class='thumbnail-title'><span class="article-type">deeplearning.ai</span><br>Week 3:<span style="font-size: 18px"><br>Shallow Neural Networks</span></h3>
 <p class="article-description">UNDER CONSTRUCTION</p>
 
 <p class="article-number">14</p>

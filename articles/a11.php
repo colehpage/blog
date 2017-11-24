@@ -1,4 +1,4 @@
-<h3 class='thumbnail-title'><span class="article-type">[Basketball]</span><br>NBA Team Rankings:<span style="font-size: 18px"><br>First Quarter</span></h3>
+<h3 class='thumbnail-title'><span class="article-type">Basketball</span><br>NBA Team Rankings:<span style="font-size: 18px"><br>First Quarter</span></h3>
 <p class="article-description">UNDER CONSTRUCTION</p>
 
 <p class="article-number">11</p>

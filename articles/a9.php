@@ -1,4 +1,4 @@
-<h3 class='thumbnail-title'><span class="article-type">[deeplearning.ai]</span><br>Week 1:<span style="font-size: 18px"><br>Introduction to Deep Learning</span></h3>
+<h3 class='thumbnail-title'><span class="article-type">deeplearning.ai</span><br>Week 1:<span style="font-size: 18px"><br>Introduction to Deep Learning</span></h3>
 <p class="article-description">It has been a few months since I finished Andrew Ng's famous course on Machine Learning. It lived up to it's hype and then some, so naturally when </p>
 
 <p class="article-number">9</p>

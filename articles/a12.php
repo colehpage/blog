@@ -1,4 +1,4 @@
-<h3 class='thumbnail-title'><span class="article-type">[python/beautifulsoup4]</span><br>Building an Application:<span style="font-size: 18px"><br>Live NBA Scoreboard</span></h3>
+<h3 class='thumbnail-title'><span class="article-type">python/beautifulsoup4</span><br>Building an Application:<span style="font-size: 18px"><br>Live NBA Scoreboard</span></h3>
 <p class="article-description">UNDER CONSTRUCTION</p>
 
 <p class="article-number">12</p>

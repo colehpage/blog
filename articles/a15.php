@@ -1,4 +1,4 @@
-<h3 class='thumbnail-title'><span class="article-type">[Basketball]</span><br>NBA Prediction Model:<span style="font-size: 18px"><br>An Overhead Look at My Deep Learning Ensemble Methodology</span></h3>
+<h3 class='thumbnail-title'><span class="article-type">Basketball</span><br>NBA Prediction Model:<span style="font-size: 18px"><br>An Overhead Look at My Deep Learning Ensemble Methodology</span></h3>
 <p class="article-description">UNDER CONSTRUCTION</p>
 
 <p class="article-number">15</p>
