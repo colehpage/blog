@@ -222,14 +222,6 @@
 				</div>
 			</section>
 
-			<div class="media-wrapper" style="max-width: 100%; margin: 50px 0px;">
-				<p>Still unconvinced? Check out all 121 of JaVale's Dunks below.</p>
-
-				<video width="100%" height="100%" controls="controls" preload"yes">
-						<source type="video/mp4" src="./vid/a2/javale_121_dunks.mp4" />
-				</video>
-			</div>
-
 			<h3>Points in the Paint</h3>
 			<p>When your per-36 adjusted dunks are this far ahead of the competition, it’s not too much of a surprise that his adjusted points in the paint would reflect the same trend. Playing on a team that dished it at historic numbers this year and constantly looks for the 3rd pass doesn’t hurt either. Add that to the absurd gravitational pull of Golden State’s guards on the 3 point line and you have yourself a big-man PITP feeding frenzy on a nightly basis, something JaVale has happily taken advantage of this season. JaVale’s 20.00 PITP per-36 is the highest since Shaquille O’Neal’s 20.00 in 2001-2002. In fact, in the past 20 years no other player even eclipsed 15.5 PITP per-36, Shaq pulling off the feat for a dominant 11 straight years between 1996-2007.</p>
 			<section class="viz" style="margin: 25px 0px;">
