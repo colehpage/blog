@@ -1,4 +1,4 @@
-<h3 class='thumbnail-title'><span class="article-type">basketball</span><br> How Much Luck do the Irish Have Left?<br><span style="font-size: 18px">A Look Into the Celtics Impressive Win Streak</span></h3>
+<h3 class='thumbnail-title'><span class="article-type">basketball</span><br> <br><span style="font-size: 18px"></span></h3>
 <p class="article-description">UNDER CONSTRUCTION</p>
 
 <p class="article-number">8</p>
@@ -7,7 +7,7 @@
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 			<div class="modal-title">
-				<span style="font-weight: 200;">[basketball]</span> A Look Into the Celtics Impressive Win Streak
+				<span style="font-weight: 200;">[basketball]</span>
 			</div>
 			<div class="modal-title-mobile">
 				Nov 28, 2017
@@ -23,7 +23,7 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1><span class="pre-header">[basketball]<br></span></h1> A Look Into the Celtics Impressive Win Streak
+					<h1><span class="pre-header">[basketball]<br></span></h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>

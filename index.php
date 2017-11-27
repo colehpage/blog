@@ -60,7 +60,7 @@
             <?php include './articles/a10.php'; ?>
           </li>
 
-          <li id="deelearning_w1_article" class="icon-clima-1 rb-span-2 not-ready">
+          <li id="deelearning_w1_article" class="icon-clima-1 rb-span-2 ready">
             <?php include './articles/a9.php'; ?>
           </li>
 

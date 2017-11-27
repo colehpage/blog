@@ -1,5 +1,5 @@
 <h3 class='thumbnail-title'><span class="article-type">deeplearning.ai</span><br>Week 1:<span style="font-size: 18px"><br>Introduction to Deep Learning</span></h3>
-<p class="article-description">It has been a few months since I finished Andrew Ng's famous course on Machine Learning. It lived up to it's hype and then some, so naturally when </p>
+<p class="article-description">It has been almost a year since I finished Andrew Ng's famous course on Machine Learning. It lived up to it's immense hype and then some, so naturally when I started to get the itch to take a new class I quickly stumbled across his deep learning, 5 course AI specilization track and figured I'd give it a try. Over the next few weeks, in and around my research, blogging, and job hunt I plan to log my progress through the course here in a series of posts.</p>
 
 <p class="article-number">9</p>
 <p class="article-date">Nov. 25th 2017</p>
@@ -31,6 +31,8 @@
 				</div>
 			</header>
 			<main>
+				<p>It has been almost a year since I finished Andrew Ng's famous course on Machine Learning. It lived up to it's immense hype and then some, so naturally when I started to get the itch to take a new class I quickly stumbled across his deep learning, 5 course AI specilization track and figured I'd give it a try. Over the next few weeks, in and around my research, blogging, and job hunt I plan to log my progress through the course here in a series of posts. If you want to learn more or check it out yourself head over to <a href="https://www.coursera.org/specializations/deep-learning">Coursera</a> and although you need a $49/month subscription you can check out the course with a free 7 day trial before spending the cash, which in my opinion is well worth it.</p>
+				<p></p>
 
 
 

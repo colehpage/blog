@@ -3469,6 +3469,10 @@ section.viz {
     position: relative;
 }
 
+a {
+    color: #0275d8 !important;
+}
+
 /*
 .ready:hover .article-type::before {
     left: -20px;
