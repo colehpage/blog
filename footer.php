@@ -7,7 +7,7 @@
 				<div class="info-links">
 					<ul class="navigation-links">
 						<li class="_item">
-							<a class="_link" href="./contact.php">CONTACT</a>
+							<a class="_link" href="./contact.php" style="color: black">CONTACT</a>
 						</li>
             <li class="_item">
 							<a class="_link" href="./about.php">ABOUT</a>

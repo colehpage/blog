@@ -36,23 +36,23 @@
 
         <ul id="articles-grid" class="articles-grid clearfix">
 
-          <li id="nba_rankings_m1_article" class="icon-clima-1 rb-span-4 not-ready">
+          <li id="nba_rankings_m1_article" class="icon-clima-1 rb-span-4 not-ready" style="display: none">
             <?php include './articles/a15.php'; ?>
           </li>
 
-          <li id="deeplearning_w3_article" class="icon-clima-1 rb-span-2 not-ready">
+          <li id="deeplearning_w3_article" class="icon-clima-1 rb-span-2 not-ready" style="display: none">
             <?php include './articles/a14.php'; ?>
           </li>
 
-          <li id="nba_rankings_m1_article" class="icon-clima-1 rb-span-2 not-ready">
+          <li id="nba_rankings_m1_article" class="icon-clima-1 rb-span-2 not-ready" style="display: none">
             <?php include './articles/a13.php'; ?>
           </li>
 
-          <li id="deeplearning_w3_article" class="icon-clima-1 rb-span-1 not-ready">
+          <li id="deeplearning_w3_article" class="icon-clima-1 rb-span-1 not-ready" style="display: none">
             <?php include './articles/a12.php'; ?>
           </li>
 
-          <li id="scraping_article" class="icon-clima-1 rb-span-3 not-ready">
+          <li id="scraping_article" class="icon-clima-1 rb-span-2 not-ready" >
             <?php include './articles/a11.php'; ?>
           </li>  
 
@@ -64,7 +64,7 @@
             <?php include './articles/a9.php'; ?>
           </li>
 
-          <li id="celtics_streak_article" class="icon-clima-1 rb-span-2 not-ready">
+          <li id="celtics_streak_article" class="icon-clima-1 rb-span-2 not-ready" style="display: none">
             <?php include './articles/a8.php'; ?>
           </li>
 

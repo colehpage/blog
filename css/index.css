@@ -3473,6 +3473,14 @@ a {
     color: #0275d8 !important;
 }
 
+footer a {
+    color: #333 !important;
+}
+
+footer a:hover {
+    color: #0275d8 !important;
+}
+
 /*
 .ready:hover .article-type::before {
     left: -20px;
