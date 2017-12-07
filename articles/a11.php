@@ -1,16 +1,16 @@
-<h3 class='thumbnail-title'><span class="article-type">Basketball</span><br>NBA Team Rankings:<span style="font-size: 18px"><br>First Quarter</span></h3>
-<p class="article-description">UNDER CONSTRUCTION</p>
+<h3 class='thumbnail-title'><span class="article-type">Basketball</span><br>One Month Later in Cleveland:<span style="font-size: 18px"><br>Defense, Offense, Clutch Shots, and Respect Where Respect is Due</span></h3>
+<p class="article-description">Right about now I'm pretty happy I concluded my last Cavaliers article with the opinion that things would change in Cleveland because since I strongly critiqued LeBron's lack of effort they have gone 13-0, fueled by LBJ domination and clutch shot after clutch shot. Let's take a look at how things have turned around over the past month.</p>
 
 <p class="article-number">11</p>
-<p class="article-date">Dec. 2nd 2017</p>
+<p class="article-date">Dec. 9th 2017</p>
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
 			<div class="modal-title">
-				<span style="font-weight: 200;">[Basketball]</span> NBA Team Rankings: First Quarter
+				<span style="font-weight: 200;">[Basketball]</span> One Month Later in Cleveland
 			</div>
 			<div class="modal-title-mobile">
-				Dec 2, 2017
+				Dec 9, 2017
 			</div>
 			<div class="modal-close">
 				<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">
@@ -23,11 +23,11 @@
 		<article class="article-body">
 			<header class="article-header">
 				<div class="article-title">
-					<h1><span class="pre-header">[Basketball]<br></span>NBA Team Rankings:<br>First Quarter</h1>
+					<h1><span class="pre-header">[Basketball]<br></span>One Month Later in Cleveland:<br>Defense, Offense, Clutch Shots, and Respect Where Respect is Due</h1>
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>
-					<p>Published December 2, 2017</p>
+					<p>Published December 9, 2017</p>
 				</div>
 			</header>
 			<main>

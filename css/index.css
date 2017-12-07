@@ -3478,7 +3478,15 @@ footer a {
 }
 
 footer a:hover {
-    color: #0275d8 !important;
+    color: #67A2FF !important;
+}
+
+#nav a {
+    color: #fff !important;
+}
+
+#nav a:hover {
+    color: #67A2FF !important;
 }
 
 /*

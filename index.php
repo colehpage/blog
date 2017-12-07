@@ -17,7 +17,7 @@
                     <div class="home-content-wrapper ">
                         <h1 class="home-content-Heading " style="font-family: 'Rubik-Black'; "><span style="font-family: 'Rubik-light';">[ALWAYS] </span>UNDER CONSTRUCTION...</h1>
 
-                        <a id="learnmore" href="./about.php" title="Learn More " class="home-content-button " style="font-family: 'Kano-regular'; ">Learn More</a>
+                        <a id="learnmore" href="./about.php" title="Learn More " class="home-content-button " style="font-family: 'Kano-regular'; color: #222 !important">Learn More</a>
                     </div>
                     <div href="" class="home-content-Caption ">
 <!--                       <p class="home-content-CaptionLabel " style="text-align: center; font-size: 14px;">I have neither the time nor the crayons to explain this to you.</p> -->
@@ -36,7 +36,7 @@
 
         <ul id="articles-grid" class="articles-grid clearfix">
 
-          <li id="nba_rankings_m1_article" class="icon-clima-1 rb-span-4 not-ready" style="display: none">
+          <li id="_article" class="icon-clima-1 rb-span-4 not-ready" style="display: none">
             <?php include './articles/a15.php'; ?>
           </li>
 
@@ -44,7 +44,7 @@
             <?php include './articles/a14.php'; ?>
           </li>
 
-          <li id="nba_rankings_m1_article" class="icon-clima-1 rb-span-2 not-ready" style="display: none">
+          <li id="_article" class="icon-clima-1 rb-span-2 not-ready" style="display: none">
             <?php include './articles/a13.php'; ?>
           </li>
 
@@ -52,19 +52,19 @@
             <?php include './articles/a12.php'; ?>
           </li>
 
-          <li id="scraping_article" class="icon-clima-1 rb-span-2 not-ready" >
+          <li id="cavs_1month_later_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a11.php'; ?>
           </li>  
 
-          <li id="deeplearning_w2_article" class="icon-clima-1 rb-span-2 not-ready">
+          <li id="scraping_article" class="icon-clima-1 rb-span-2 not-ready">
             <?php include './articles/a10.php'; ?>
           </li>
 
-          <li id="deelearning_w1_article" class="icon-clima-1 rb-span-2 ready">
+          <li id="nba_rankings_m1_article" class="icon-clima-1 rb-span-4 not-ready">
             <?php include './articles/a9.php'; ?>
           </li>
 
-          <li id="celtics_streak_article" class="icon-clima-1 rb-span-2 not-ready" style="display: none">
+          <li id="deelearning_w1_article" class="icon-clima-1 rb-span-2 ready">
             <?php include './articles/a8.php'; ?>
           </li>
 

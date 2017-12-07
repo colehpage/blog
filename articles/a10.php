@@ -1,8 +1,8 @@
 <h3 class='thumbnail-title'><span class="article-type">beautifulsoup4/postgres</span><br>Scraping NBA Line Movements with BeautifulSoup4</h3>
 <p class="article-description">Here I wanted to take a step backward and walk through how I created the database that was used in my post exploring Plotly's Dash platform by creating an dashbaord that displays realtime NBA line movements. The application runs constantly in the background my linux server using cascading crontabs and was written completely in Python using BeautifulSoup4 for the web scraping and Postgres queries to store the data.</p>
 
-<p class="article-number">10</p>
-<p class="article-date">Nov. 28th 2017</p>
+<p class="article-number">9</p>
+<p class="article-date">Dec. 5th 2017</p>
 	<div class="rb-overlay" style="overflow-y: scroll; background-color: white;">
 		<div class="modal-navigation">
 			<div class="modal-branding"><img class="rb-logo" src="./img/ma_logo.svg" style="cursor: default;"></div>
@@ -10,7 +10,7 @@
 				<span style="font-weight: 200;">[beautifulsoup4/postgres]</span> Scraping NBA Line Movements with BeautifulSoup4
 			</div>
 			<div class="modal-title-mobile">
-				Nov 28, 2017
+				Dec 5, 2017
 			</div>
 			<div class="modal-close">
 				<svg class="rb-close" viewbox="0 0 18 17" xmlns="http://www.w3.org/2000/svg">
@@ -27,7 +27,7 @@
 				</div>
 				<div class="article-title-metadata">
 					<p>By <a class="author" href="./resume.php" rel="">Cole Page</a></p>
-					<p>Published November 28, 2017</p>
+					<p>Published December 5, 2017</p>
 				</div>
 			</header>
 			<main>
